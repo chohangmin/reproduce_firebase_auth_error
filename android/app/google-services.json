@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906179834656",
+    "project_id": "reproduce-7dbaf",
+    "storage_bucket": "reproduce-7dbaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906179834656:android:6d305aa6a32ed3c178dd45",
+        "android_client_info": {
+          "package_name": "com.example.reproduce_firebase_auth_error"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPEK9uLsaTvAhzY8iw8SW-N0y9y0VGw_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
